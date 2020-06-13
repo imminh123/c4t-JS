@@ -1,0 +1,19 @@
+.root {
+    height: 800px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+}
+
+.square-1 {
+    width: 300px;
+    height: 300px;
+    background-color: teal;
+}
+
+.square-2 {
+    width: 300px;
+    height: 300px;
+    background-color: tomato;
+    align-self: flex-end;
+}

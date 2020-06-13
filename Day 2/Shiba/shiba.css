@@ -1,0 +1,33 @@
+.banner {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-image: url('./background.jpg');
+}
+.favourite {
+    text-align: center;
+    color: aquamarine;
+}
+
+.cat {
+    display: flex;
+    justify-content: center;
+}
+
+.cat img {
+    width: 200px;
+    border-radius: 50%;
+    padding-right: 20px;
+}
+
+.facebook {
+    margin-top: 20px;
+    background-color: rgb(23, 50, 107);
+}
+
+.facebook img {
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,16 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    transition: 0.5s;
+}
+
+.square:hover {
+    background-color: tomato;
+    transform: scale(2);
+}
+
+h1:hover {
+    color: thistle;
+    font-size: 40px;
+}
