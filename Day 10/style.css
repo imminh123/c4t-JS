@@ -1,0 +1,11 @@
+#root {
+  display: flex;
+}
+
+.person {
+  text-align: center;
+}
+
+.person img {
+  border-radius: 50%;
+}
